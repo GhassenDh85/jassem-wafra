@@ -1,0 +1,14 @@
+
+> wafra@1.0.0 dev
+> next dev
+
+▲ Next.js 16.4.0 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.100.94:3000
+- Environments: .env
+✓ Ready in 598ms
+✓ Running next.config.mjs took 24ms
+
+ GET / 200 in 481ms (next.js: 164ms, application-code: 317ms)
+ GET / 200 in 78ms (next.js: 1.1ms, application-code: 77ms)
+[?25h
